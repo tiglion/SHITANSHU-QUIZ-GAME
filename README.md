@@ -1,1 +1,1 @@
-# SHITANSHU-QUIZ-GAME
+# project-template-myquiz
